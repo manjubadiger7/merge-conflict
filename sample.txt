@@ -1,3 +1,5 @@
 red
 gree
 blue
+Manju
+Badige
